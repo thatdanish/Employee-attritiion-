@@ -14,7 +14,7 @@
 ### Live Loss Plot is visualised using:
 				(a) livelossplot library
 
-Model Weights During Training is saved as a 'h5' file in the folder "tmp_weights".
-Model architecture is saved in model_h5 folder as a 'h5' file.
-Model in json file is saved as 'model.json'
-Main Jupyter notebook is saved as 'Employee Attrition.ipynb'
+1) Model Weights During Training is saved as a 'h5' file in the folder "tmp_weights".
+2) Model architecture is saved in model_h5 folder as a 'h5' file.
+3) Model in json file is saved as 'model.json'
+4) Main Jupyter notebook is saved as 'Employee Attrition.ipynb'
